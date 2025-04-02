@@ -1,3 +1,9 @@
+**== THIS REPOSITORY IS ARCHIVED ==**
+
+See https://github.com/aroyoredhat/trigger-test-samples-build which picked up the torch :)
+
+-------
+
 This repository contains a Github Action that periodically checks that Samples Operator
 works with the latest Openshift "ecosystem".
 
